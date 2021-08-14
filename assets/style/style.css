@@ -22,3 +22,9 @@ img:hover{
 img{
     max-width: 100%;
 }
+.bcBlendMode{
+    width: 300px;
+    height: 150px;
+    background-image: linear-gradient(red, blue), url('https://flor2u.ru/images/uploads/conversion/85c/85cd3a71267f3f7a463e94f799f6470f/85cd3a71267f3f7a463e94f799f6470f-large.jpg');
+    background-blend-mode: overlay;
+}
